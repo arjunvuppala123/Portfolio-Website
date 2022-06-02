@@ -12,7 +12,7 @@ function Skills() {
                 <div  id="others" class="row">
                     <div class="col-md-4 animate-box">
                         <div class="progress-wrap ftco-animate">
-                            <h3>Photoshop</h3>
+                            <h3>Machine Learning</h3>
                             <div class="progress">
                                 <div class="progress-bar color-1" role="progressbar" aria-valuenow="90"
                                     aria-valuemin="0" aria-valuemax="100" style={{"width":"90%"}}>
@@ -23,7 +23,7 @@ function Skills() {
                     </div>
                     <div class="col-md-4 animate-box">
                         <div class="progress-wrap ftco-animate">
-                            <h3>jQuery</h3>
+                            <h3>Big Data</h3>
                             <div class="progress">
                                 <div class="progress-bar color-2" role="progressbar" aria-valuenow="85"
                                     aria-valuemin="0" aria-valuemax="100" style={{"width":"85%"}}>
@@ -34,7 +34,7 @@ function Skills() {
                     </div>
                     <div class="col-md-4 animate-box">
                         <div class="progress-wrap ftco-animate">
-                            <h3>HTML5</h3>
+                            <h3>SQL</h3>
                             <div class="progress">
                                 <div class="progress-bar color-3" role="progressbar" aria-valuenow="95"
                                     aria-valuemin="0" aria-valuemax="100" style={{"width":"95%"}}>
@@ -45,7 +45,7 @@ function Skills() {
                     </div>
                     <div class="col-md-4 animate-box">
                         <div class="progress-wrap ftco-animate">
-                            <h3>CSS3</h3>
+                            <h3>React JS</h3>
                             <div class="progress">
                                 <div class="progress-bar color-4" role="progressbar" aria-valuenow="90"
                                     aria-valuemin="0" aria-valuemax="100" style={{"width":"90%"}}>
@@ -56,7 +56,7 @@ function Skills() {
                     </div>
                     <div class="col-md-4 animate-box">
                         <div class="progress-wrap ftco-animate">
-                            <h3>WordPress</h3>
+                            <h3>Node JS</h3>
                             <div class="progress">
                                 <div class="progress-bar color-5" role="progressbar" aria-valuenow="70"
                                     aria-valuemin="0" aria-valuemax="100" style={{"width":"70%"}}>
@@ -67,7 +67,7 @@ function Skills() {
                     </div>
                     <div class="col-md-4 animate-box">
                         <div class="progress-wrap ftco-animate">
-                            <h3>SEO</h3>
+                            <h3>MongoDB</h3>
                             <div class="progress">
                                 <div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
                                     aria-valuemin="0" aria-valuemax="100" style={{"width":"80%"}}>
@@ -78,7 +78,7 @@ function Skills() {
                     </div>
                     <div class="col-md-4 animate-box">
                         <div class="progress-wrap ftco-animate">
-                            <h3>SEO</h3>
+                            <h3>Apache Spark</h3>
                             <div class="progress">
                                 <div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
                                     aria-valuemin="0" aria-valuemax="100" style={{"width":"80%"}}>
@@ -89,7 +89,7 @@ function Skills() {
                     </div>
                     <div class="col-md-4 animate-box">
                         <div class="progress-wrap ftco-animate">
-                            <h3>SEO</h3>
+                            <h3>Java SpringBoot</h3>
                             <div class="progress">
                                 <div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
                                     aria-valuemin="0" aria-valuemax="100" style={{"width":"80%"}}>
@@ -100,7 +100,7 @@ function Skills() {
                     </div>
                     <div class="col-md-4 animate-box">
                         <div class="progress-wrap ftco-animate">
-                            <h3>SEO</h3>
+                            <h3>AWS</h3>
                             <div class="progress">
                                 <div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
                                     aria-valuemin="0" aria-valuemax="100" style={{"width":"80%"}}>
