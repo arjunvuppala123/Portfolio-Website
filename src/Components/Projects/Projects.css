@@ -1,0 +1,38 @@
+.heading {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    margin-left: 30px;
+    padding-bottom: 15px;
+}
+
+.card{
+    height: 350px;
+}
+
+#btn{
+    margin-bottom: 18px;
+}
+
+.card-heading{
+    font-size: 18px;
+    padding-bottom: 17px;
+    font-weight: bold;
+    color: black;
+}
+
+.button{
+    background-color: black;
+    border: none;
+    font-family: monospace ;
+    border-radius: 100px;
+    text-align: center;  
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 10px;
+    cursor: pointer;
+}
